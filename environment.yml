@@ -1,0 +1,15 @@
+name: 7030_class_4
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - statsmodels
+  - seaborn
