@@ -5,7 +5,7 @@
 This repository contains my Statistics in Python assignment based on the SciPy Lecture Notes. It includes a manual statistical notebook, an AI-assisted analysis notebook, and an additional mixed-effects model extension. This will be used to my future data analysis. 
 
 ## Project Structure
-'''
+``` text
 Assignment4/
 |-- notebooks/
 |   |-- stats_python.ipynb
@@ -27,7 +27,7 @@ Assignment4/
 |-- setup_env.sh
 |-- .gitignore
 `-- README.md
-'''
+```
 
 ## Setup
 
